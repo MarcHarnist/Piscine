@@ -1,0 +1,3 @@
+Ne pas supprimer ou déplacer motor_index.php: il est utilisé dans le repertoire view/budget_doc et img/dir pour tests de "controllers/__explorer.php"
+MLH
+2018-09-01

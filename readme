@@ -1,0 +1,6 @@
+
+Jeu piscine
+A chaque test, le résultat est envoyé vers la page "correction" qui affiche le message d'erreur avec une $image et le cas échéant ou la suite. 
+Cela évite de créer un nombre de contrôleurs inutiles.
+Utilisation de php: ? et : pour les conditions et else (Julien d'IS)
+Attention taille image: réduite dans 6 colonnes au lieu de 12. 

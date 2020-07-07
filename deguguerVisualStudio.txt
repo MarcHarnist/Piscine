@@ -1,0 +1,9 @@
+Visual Studio
+Borne
+Message d'erreur
+s'il manque un fichier .dll du projet "isTool"
+
+Clic droit sur isTool/propriétés/ chercher fichier manquant/ supprimer la ligne deffectueuse / rajouter le fichier : chercher
+dans parcourir/ os/C/ sources/_Workspace_Stage/Commun/ trouver le fichier .dll manquant/
+
+Regénerer la solution.
